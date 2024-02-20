@@ -1,0 +1,1 @@
+This is simple todo list app using Next.js.
